@@ -1,0 +1,6 @@
+com\mtons\mblog\Base64Test.class
+com\mtons\mblog\modules\service\impl\PostServiceImplTest.class
+com\mtons\mblog\QiniuOSSTest.class
+com\mtons\mblog\AliyunOSSTest.class
+com\mtons\mblog\modules\repository\ResourceRepositoryTest.class
+com\mtons\mblog\ImageUtilsTest.class
